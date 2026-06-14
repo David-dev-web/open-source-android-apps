@@ -35,7 +35,7 @@
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 27.9k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.7k |
-| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 20.0k |
+| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 20.1k |
 | [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information and documentation. | 18.8k |
 | [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 17.6k |
 | [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | 16.2k |
